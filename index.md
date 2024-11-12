@@ -4,3 +4,5 @@ This website is meant to feature as an archived collection of my various notes a
 [Week One](Week1.md)
 
 [Week Two](Week2.md)
+
+[Coding for the Humanities Week One](CFH1.md) 
