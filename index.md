@@ -6,3 +6,5 @@ This website is meant to feature as an archived collection of my various notes a
 [Week Two](Week2.md)
 
 [Coding for the Humanities Week One](CFH1.md) 
+
+[Coding for the Humanities Week Two](nov-12.md)
