@@ -107,7 +107,7 @@ print(only_dobsons)
 for name in list_of_names:
     print(name)
 
-# NOTE: "name" is a variable declared only in the loop, and it stores the item that the loop is presently looking at
+NOTE: "name" is a variable declared only in the loop, and it stores the item that the loop is presently looking at
 # in our case, in the first loop "name" = "George Atherton", and then after that name is printed, the loop repeats and "name" = "Marian Hyde", in the next loop "name" = "Sybil Dickenson", and so on until the end of the list
 ```
 
