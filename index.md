@@ -12,3 +12,5 @@ This website is meant to feature as an archived collection of my various notes a
 [Coding for the Humanities Week Three](nov-19.md)
 
 [Coding for the Humanities Week Four](nov-26.md)
+
+[January 7th Class Notes](jan-7.md)
