@@ -18,3 +18,5 @@ This website is meant to feature as an archived collection of my various notes a
 [January 14th Class Notes](jan-14.md)
 
 [February 4th Class Notes](feb-4.md)
+
+[February 25th Class Notes](feb-25.md)
