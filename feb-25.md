@@ -76,7 +76,9 @@
 - new database is on ESRI
 - Also does Digital Recording of Roman pottery, mostly funerary uses, initially uncovered under Mussolini but packed away until they went to the University of Missouri
 	- performing use wear analysis to examine how objects were used in every day contexts (e.g. marks indicating a cup was used to stir liquid)
- ![sample image of work](main/use-work.png)
+ 
+ ![sample image of work](use-work.png)
+ 
 - spoon use wear indicated that many people were right-handed
 - DH applications, 3D laser scanning object at 4 resolutions
 - using digital landscape archaeology methods for use wear, examining cuts, indentations, etc. on a micro-scale 
