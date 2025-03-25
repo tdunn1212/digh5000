@@ -20,3 +20,7 @@ This website is meant to feature as an archived collection of my various notes a
 [February 4th Class Notes](feb-4.md)
 
 [February 25th Class Notes](feb-25.md)
+
+[March 11th Class Notes](mar-11.md)
+
+[March 25th Class Notes](mar-25.md)
